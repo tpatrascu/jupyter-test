@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tpatrascu/jupyter-test/main?labpath=pivot%2Fpivot.ipynb)
